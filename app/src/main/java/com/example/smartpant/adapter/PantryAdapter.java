@@ -12,7 +12,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-//import com.example.smartpant.AddEditIngredientActivity;
+import com.example.smartpant.AddEditIngredientActivity;
 import com.example.smartpant.R;
 import com.example.smartpant.database.DatabaseHelper;
 import com.example.smartpant.model.PantryItem;
